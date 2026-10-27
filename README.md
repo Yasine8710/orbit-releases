@@ -2,7 +2,7 @@
 
 **An AI helper that lives at your cursor.** Select text in any Windows app, press one shortcut, and pick what you want done with it: translate, explain, rewrite, fix, summarize and more. The answer appears right next to your pointer. Orbit is free.
 
-Website: https://orbit-sandy-two-36.vercel.app
+Website: chwy wa9t :>
 
 ## Download
 
