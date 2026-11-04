@@ -4,6 +4,8 @@
 
 Website: https://orbit-sandy-two-36.vercel.app/
 
+**Watch the 2-minute tour** (every feature, narrated): [![Orbit explainer video](media/orbit-explainer-poster.jpg)](media/orbit-explainer.mp4)
+
 ## Download
 
 Get the latest installer from the [**Releases** page](../../releases/latest). Download `Orbit-Setup-<version>.exe` and run it.
