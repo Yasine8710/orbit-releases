@@ -7,12 +7,13 @@
 **An AI helper that lives at your cursor.**<br>
 Select text in any Windows app, press one shortcut, and pick what to do with it. The answer appears right next to your pointer. Free, no account, no tracking.
 
+<a href="https://orbit-sandy-two-36.vercel.app"><img src="media/website-button.svg" width="380" alt="Open the Orbit website"></a>
+
 <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-blue" alt="Windows 10 and 11">
 <img src="https://img.shields.io/badge/price-free-brightgreen" alt="Free">
 <img src="https://img.shields.io/badge/account-none-lightgrey" alt="No account">
 
 <a href="../../releases/latest"><img src="https://img.shields.io/badge/Download%20for%20Windows-2457D6?style=for-the-badge" alt="Download Orbit for Windows"></a>
-<a href="https://orbit-sandy-two-36.vercel.app/"><img src="https://img.shields.io/badge/Website-555?style=for-the-badge" alt="Orbit website"></a>
 
 [Demo](#see-it-in-action) · [Screenshots](#screenshots) · [Download](#download) · [Get started](#get-started-in-2-minutes) · [Shortcuts](#shortcuts) · [Features](#what-you-can-do-with-it) · [Privacy](#privacy) · [Help](#help-and-feedback)
 

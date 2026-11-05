@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="64" viewBox="0 0 380 64" role="img" aria-label="Open the Orbit website">
+  <title>Open the Orbit website</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF4A3D"/>
+      <stop offset="1" stop-color="#D91E12"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="368" height="52" rx="26" fill="none" stroke="#FF3B30" stroke-width="3" opacity="0.8">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="6;1;6" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="6;1;6" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="368;378;368" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="52;62;52" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="26;31;26" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="8" y="8" width="364" height="48" rx="24" fill="url(#g)">
+    <animate attributeName="fill-opacity" values="1;0.82;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <g fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" transform="translate(44 32)">
+    <circle r="11"/>
+    <ellipse rx="4.6" ry="11"/>
+    <path d="M-11 0H11M-9 -5.5H9M-9 5.5H9"/>
+  </g>
+  <text x="70" y="39" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Open the website</text>
+  <path d="M330 32h20m-7-7 7 7-7 7" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <animateTransform attributeName="transform" type="translate" values="0 0;6 0;0 0" dur="1.6s" repeatCount="indefinite"/>
+  </path>
+</svg>
